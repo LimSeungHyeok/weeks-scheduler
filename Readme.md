@@ -1,2 +1,1 @@
-일주일 스케쥴링하는 앱을 만들고 싶어.
-모바일에서도 보고싶고, 데스크탑에서도 같이 사용하고싶어. # weeks-scheduler
+# weeks-scheduler
